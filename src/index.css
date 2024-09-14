@@ -1,0 +1,14 @@
+/* index.css */
+body, html {
+    background: linear-gradient(135deg, #ecebeb, hsl(0, 29%, 73%)); /* Pastel pink to pastel peach gradient */
+    color: #000000; /* Darker text for better contrast */
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+
+  
+
+  
